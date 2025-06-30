@@ -18,7 +18,7 @@
     "@wdio/mocha-framework": "^9.16.2",
     "@wdio/spec-reporter": "^9.16.2",
     "appium": "^2.19.0",
-    "allure": "3.0.0-beta.15",
+    "allure": "^3.0.0-beta.15",
     "chai": "^5.2.0",
     "cross-env": "^7.0.3",
     "ts-node": "^10.9.2",
